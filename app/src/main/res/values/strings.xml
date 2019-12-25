@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Woot?</string>
+    <string name="text_hello">Hello</string>
+    <string name="text_plus">+</string>
+    <string name="text_counter">0</string>
+    <string name="text_minus">-</string>
+</resources>
